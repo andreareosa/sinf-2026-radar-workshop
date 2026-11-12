@@ -8,17 +8,17 @@ And can you find the day Portugal went dark?
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreareosa/sinf-2026-radar-workshop/blob/main/workshop.ipynb)
 
-## Before the workshop
+## Setup
 
 You need:
 
 1. A laptop with a browser and a **Google account** (for Google Colab)
 2. Basic **Python**
-3. A free **Cloudflare account** and a **Radar API token**
+3. A free **Cloudflare account** and a **Radar API token** (steps below, also in Part 1 of the notebook)
 
 ### Create your Radar API token
 
-1. Sign up at [dash.cloudflare.com/sign-up](https://dash.cloudflare.com/sign-up)
+1. Create a free Cloudflare account at [dash.cloudflare.com/sign-up](https://dash.cloudflare.com/sign-up) and **verify your email**
 2. Go to **My Profile** → **API Tokens** → **Create Token**
 3. Under **Custom token**, click **Get started**
 4. Fill in:
@@ -27,7 +27,7 @@ You need:
 5. Click **Continue to summary** → **Create Token**
 6. Copy the token and keep it private. It's shown only once.
 
-## During the workshop
+## Get started
 
 1. Click the **Open in Colab** button above
 2. In Colab, click **File** → **Save a copy in Drive** (otherwise your work won't be saved)
