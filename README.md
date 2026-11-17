@@ -33,6 +33,12 @@ You need:
 2. In Colab, click **File** → **Save a copy in Drive** (otherwise your work won't be saved)
 3. Follow the notebook, step by step
 
+## Solutions
+
+Stuck, or want to check your answers? The solutions notebook has the code for every Challenge, with comments explaining each step, and the charts already drawn.
+
+[![Open Solutions In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreareosa/sinf-2026-radar-workshop/blob/main/workshop-solutions.ipynb)
+
 ## Useful links
 
 - [Cloudflare Radar](https://radar.cloudflare.com)
